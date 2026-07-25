@@ -1,1 +1,1 @@
-# AwaasPlus-Self and Assisted-Survey-Dashboard
+Self and Assisted-Survey-Dashboard
